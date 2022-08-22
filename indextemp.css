@@ -12,3 +12,7 @@ img[src*='ATM'] {
 h2 {
   background-color: red; 
 }
+
+body {
+  background-color: #DBF9FC;
+}
