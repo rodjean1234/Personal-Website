@@ -27,3 +27,8 @@ body {
 p #about-me{
   float: left;
 }
+a #home{
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
