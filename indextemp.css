@@ -7,6 +7,10 @@ img[src*='ATM'] {
   height: 100px;
 }
 
+.me{
+  float: right;
+}
+
 h2 {
   background-color: red; 
 }
