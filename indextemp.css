@@ -8,3 +8,7 @@ img[src*='SpaceInvaders'] {
 img[src*='ATM'] {
   height: 100px;
 }
+
+h2 {
+  background-color: red; 
+}
