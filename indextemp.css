@@ -10,6 +10,7 @@ img[src*='ATM'] {
 .me{
   float: right;
   width: 300px;
+  height: 400px;
 }
 
 h2 {
